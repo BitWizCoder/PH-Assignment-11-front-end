@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.active {
+    color: #1DA5DB;
+}
+
+.progress-bar{
+    height: 5px; /* Adjust the height of the progress bar as needed */
+    background-color: #1DA5DB; /* Adjust the background color as needed */
+    transform-origin: left center;
+    transform: scaleX(0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
