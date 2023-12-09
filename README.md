@@ -1,8 +1,24 @@
-# React + Vite
+# Real estate Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Live Preview](https://assignment-11-front-end.netlify.app/)
 
-Currently, two official plugins are available:
+## Project Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Authentication
+- create assignmetns
+- edit/upadate assignments
+- delete assignments
+- property managment
+- get and give marks
+- Crud oparations
+- Light and dark mode
+
+## Technology used
+
+- Tailwind
+- DaisyUI
+- MongoDB
+- Firebase
+- React
+- Node.js and express.js
+- jwt
